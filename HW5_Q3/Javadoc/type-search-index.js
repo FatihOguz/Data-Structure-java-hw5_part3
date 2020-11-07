@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BinaryTree.AgeData"},{"p":"<Unnamed>","l":"AgeSearchTree"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"BinarySearchTree"},{"p":"<Unnamed>","l":"BinaryTree"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"SearchTree"}]
